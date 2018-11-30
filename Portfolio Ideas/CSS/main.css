@@ -1,0 +1,34 @@
+.Fixed-NavBar {
+	position: fixed;
+}
+
+body{
+	background-image: url("file:///Users/T_Mac/Desktop/ChicagoPort/Images/background-colors-green-370472.jpg");
+	background-size: 1300px 850px;
+	background-repeat: no-repeat;
+
+}
+
+.intro-card {
+	width: 700px;
+	text-align: center;
+	padding-top: 10em;
+	margin: auto;
+	font-weight: bold;
+	color: black;
+	text-shadow: 1px 2px rgb(255,255,255, 0.9);
+	font-size: 40px;
+}
+
+.welcome-padding {
+	padding: 1em;
+}
+
+.aboutMe-card {
+	
+	margin: auto;
+	border-style: solid;
+	border-radius: 1px;
+	border-color: black;
+	border-width: 5px;
+}
